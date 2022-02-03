@@ -1,0 +1,15 @@
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\bin\Debug\GameOfLife-VAS.exe.config
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\bin\Debug\GameOfLife-VAS.exe
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\bin\Debug\GameOfLife-VAS.pdb
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\MainWindow.g.cs
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\App.g.cs
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife-VAS_MarkupCompile.cache
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife-VAS_MarkupCompile.lref
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\MainWindow.baml
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife-VAS.g.resources
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife_VAS.Properties.Resources.resources
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife-VAS.csproj.GenerateResource.cache
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife-VAS.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife-VAS.exe
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife-VAS.pdb
+C:\Users\Goran\Desktop\VAS-GOL\GameOfLife-VAS\obj\Debug\GameOfLife-VAS.csproj.AssemblyReference.cache
